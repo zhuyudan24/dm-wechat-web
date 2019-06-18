@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'DINPro';
+  /* src: url('BebasNeueBold.ttf') format('truetype'); */
+  src: url('DINPro-Bold.otf');
+  font-weight: bold;
+  font-style: normal;
+}

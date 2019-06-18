@@ -1,2 +1,5 @@
-# dm-wechat-web
-微信公众号定制页面vueCli3.0、vantui
+# 公众号 web 项目
+
+# web h5 vue-cli3.0  vantui
+
+>注意：部署线上需要修改 `router` 模式为 `history`;
